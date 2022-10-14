@@ -16,3 +16,7 @@ Link para o [video](www.youtube.com)
 
 ## Banco de dados
 Link para o [banco de dados](https://www.kaggle.com/code/kingabzpro/alcoholic-drinks-in-russia-and-design-promotional/notebook)
+
+## Sugestões
+### Nome do colega
+melhorar texto
