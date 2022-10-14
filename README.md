@@ -2,13 +2,13 @@
 
 ## Business Model Canvas
 Link para o [canvas](https://canvanizer.com/choose-canvas)
+![figura](https://github.com/Account-onmi-2xplanet/a/blob/main/Business_Model_Canvas.png)
 
 ## Futurismo
 Link para o [miro](https://miro.com/)
-![figura](https://github.com/Account-onmi-2xplanet/a/blob/main/Business_Model_Canvas.png)
 
-<img src="https://pt.wikipedia.org/wiki/Quadro_de_modelo_de_neg%C3%B3cios#/media/Ficheiro:Business_Model_Canvas.png"
-     alt="Figura"
+<img src="https://images.ctfassets.net/w6r2i5d8q73s/4lCjAfgEp0bFtsKzYuAXNO/664e1c03d42df0a05ab8e7ef3ad71194/M-Feature-MindMapping.png"
+     alt="Figura externa"
      style="float: left; margin-right: 10px;" />
 
 ## Video
