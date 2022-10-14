@@ -5,7 +5,7 @@ Link para o [canvas](https://canvanizer.com/choose-canvas)
 
 ## Futurismo
 Link para o [miro](https://miro.com/)
-![figura](https://pt.wikipedia.org/wiki/Quadro_de_modelo_de_neg%C3%B3cios#/media/Ficheiro:Business_Model_Canvas.png)
+![figura](https://github.com/Account-onmi-2xplanet/a/blob/main/Business_Model_Canvas.png)
 
 <img src="https://pt.wikipedia.org/wiki/Quadro_de_modelo_de_neg%C3%B3cios#/media/Ficheiro:Business_Model_Canvas.png"
      alt="Figura"
